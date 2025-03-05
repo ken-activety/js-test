@@ -29,19 +29,25 @@
 // console.log("Rounded figuer: " + roundedfiguer);
 
 
-let name = 'meveil';
-let age = 42;
-let paidregistration = true;
+// let name = 'meveil';
+// let age = 42;
+// let paidregistration = true;
 
-console.log(typeof name);
-console.log(typeof age);
-console.log(typeof paidregistration);
+// console.log(typeof name);
+// console.log(typeof age);
+// console.log(typeof paidregistration);
 
 
-let participants = ["Meveil", "steve", "nehemie"];
-participants.push("ken");
+// let participants = ["Meveil", "steve", "nehemie"];
+// participants.push("ken");
 
-console.log(participants);
+// console.log(participants);
+
+
+
+let name = prompt("What’s your name?");
+alert("Welcome, " + name + "!");
+alert("Welcome, " + name + "!");
 
 
 
